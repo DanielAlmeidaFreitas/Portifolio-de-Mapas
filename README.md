@@ -7,5 +7,5 @@ xD
 
 Daniel Almeida de Freitas
 Eng. Agrônomo e Futuro cientista de dados
-telegone =  (34) 99888-5437
+Telefone = (34) 998885437
 email = freitas.almeidadaniel@gmail.com
